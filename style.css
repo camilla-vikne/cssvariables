@@ -25,7 +25,7 @@ h2 img
 header {
   min-width: 100svw;
   height: 100px;
-  background-color: var(--dark-beige);
+  background-color: var(--light-beige);
   display: flex;
   justify-content: space-between;
   align-items: center;
